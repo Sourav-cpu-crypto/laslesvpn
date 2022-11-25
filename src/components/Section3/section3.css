@@ -1,0 +1,19 @@
+.sec3
+{
+    display: flex;
+width: 90%;
+
+}
+.sec3 .image
+{
+ position: relative;
+  width: 100%;
+  left:100px;
+bottom:100px;
+      
+}
+.sec3 .feature h2,p
+{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}

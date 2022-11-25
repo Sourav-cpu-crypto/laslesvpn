@@ -1,0 +1,116 @@
+.sec2
+{
+    display: flex;
+    width: 50vw;
+  padding: 80px 70px;
+justify-content: space-between;
+margin-left: 300px;
+  border-radius: 4px;
+
+  box-shadow: 0 1.5625rem 2.8125rem rgb(79 86 101 / 8%);
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+
+.sec2 .user 
+{
+
+
+
+    width: 25%;
+    border-right: 1px solid #bec3d0;
+
+}
+
+.sec2 .user  .circle 
+{
+    width: 40px;
+    padding: 10px ;
+border-radius: 100px;
+background-color:#FFECEC;
+}
+.sec2 .user  .circle img
+{
+
+    width: 80%;
+height: 30px;
+
+}
+
+.sec2 .loc
+{
+
+
+
+    width: 35%;
+    border-right: 1px solid #bec3d0;
+
+}
+.sec2 .loc .circle img {
+
+
+    width: 100;
+height: 30px;
+  
+}
+
+.sec2 .loc  .circle 
+{
+
+    width: 40px;
+    padding: 10px  ;
+border-radius: 100px;
+background-color:#FFECEC;
+}
+
+
+
+
+
+
+
+
+
+.sec2 .server
+{
+
+    
+
+    width: 35%;
+
+    
+}
+.sec2 .server .circle img {
+
+
+    width: 80%;
+height: 30px;
+  
+}
+
+.sec2 .server .circle 
+{
+
+    width: 40px;
+    padding: 10px  ;
+border-radius: 100px;
+background-color:#FFECEC;
+}
+.count
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+    margin-top: -56px;
+    width: 20px;
+    
+}
+.count .category
+{
+    font-size: 20px;
+}
+.count .total
+{
+    font-size: 30px;
+    font-weight: 900;
+}
